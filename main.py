@@ -4,3 +4,7 @@ class Person:
         self.favorite_drink = favorite_drink
 
     def my_order(self):
+
+
+
+
